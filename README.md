@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assignment 4
+
+    Show a table of countries and lets user to select their own list of countries.
+    Source for the Tamkcountries is:(http://home.tamk.fi/~kujesa/countries.php)
+    Source for the restcountries is:(https://restcountries.eu/rest/v2/all)
 
 ## Available Scripts
 
